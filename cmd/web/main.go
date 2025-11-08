@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/leonardodk/wedding_site/pkg/config"
-	"github.com/leonardodk/wedding_site/pkg/handlers"
-	"github.com/leonardodk/wedding_site/pkg/render"
+	"github.com/leonardodk/HotelDK/pkg/config"
+	"github.com/leonardodk/HotelDK/pkg/handlers"
+	"github.com/leonardodk/HotelDK/pkg/render"
 )
 
 const portNumber = ":8080"

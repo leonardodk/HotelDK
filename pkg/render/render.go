@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/leonardodk/wedding_site/pkg/config"
-	models "github.com/leonardodk/wedding_site/pkg/modlels"
+	"github.com/leonardodk/HotelDK/pkg/config"
+	"github.com/leonardodk/HotelDK/pkg/models"
 )
 
 var app *config.AppConfig

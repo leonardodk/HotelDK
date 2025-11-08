@@ -5,8 +5,8 @@ import (
 
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
-	"github.com/leonardodk/wedding_site/pkg/config"
-	"github.com/leonardodk/wedding_site/pkg/handlers"
+	"github.com/leonardodk/HotelDK/pkg/config"
+	"github.com/leonardodk/HotelDK/pkg/handlers"
 )
 
 // routes returns a mux with the handlers registered, ready to be used as an http.Handler
